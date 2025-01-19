@@ -1,0 +1,10 @@
+@import "./css/bootstrap.css";
+
+/* additional css classes for bootstrap Stack component to make the gap option on it work*/
+.stack {
+    display: flex;
+}
+
+.vertical {
+    flex-direction: column;
+}
